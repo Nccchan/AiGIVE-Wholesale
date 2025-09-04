@@ -42,3 +42,5 @@ FROM_SALES=no-reply@example.com
 - Contact form posts to `/api/contact` and sends both a sales email and an auto-reply (if RESEND_API_KEY set).
 - All external links open with `target="_blank"` and `rel="noopener noreferrer"` for safety.
 - Styling is clean/minimal with rounded-2xl cards and visible focus rings.
+
+Trigger Vercel deploy
